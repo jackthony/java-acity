@@ -23,7 +23,7 @@
         <jacoco.version>0.8.15</jacoco.version>
         <cyclonedx-maven-plugin.version>2.9.3</cyclonedx-maven-plugin.version>
         <dependency-check-maven.version>12.2.2</dependency-check-maven.version>
-        <sonar.maven.plugin.version>5.7.0.6970</sonar.maven.plugin.version>
+        <sonar.maven.plugin.version>5.8.0.7211</sonar.maven.plugin.version>
     </properties>
 
     <dependencies>
